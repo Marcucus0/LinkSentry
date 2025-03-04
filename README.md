@@ -14,7 +14,7 @@
 
 ## 🚀 **Installation**  
 
-### 📂 **Clone the project and move it to your main folder**  
+### 📂 **Clone the project**  
 ```sh
 git clone https://github.com/Marcucus0/LinkSentry.git
 ```
