@@ -1,5 +1,5 @@
 # **LinkSentry** 🔗🛡️  
-
+![Version](https://img.shields.io/badge/version-1.0-blue)
 🔒 Protect your users from unsafe redirects
 
 ## 📌 **Overview**  
